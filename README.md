@@ -3,4 +3,5 @@
 # Práctica de laboratorio N° 5
 # Teorema de Thévenin
 **Autores:** Figueroa Erick, León Jipshon,Viracucha William.
-#1. PLANTEAMIENTO DEL PROBLEMA
+# 1. PLANTEAMIENTO DEL PROBLEMA
+
