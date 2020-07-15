@@ -24,7 +24,7 @@ El **Teorema de Thévenin** estable:
 
 ![](https://github.com/erickfi/Practica-5/blob/master/Img/Cambio%20circuito.PNG)
 
-Donde VTh es el voltaje del circuitos en las terminales y RTh es la resistencia equivalente del circuito, es decir, los circuitos de la [Figura 1](https://github.com/erickfi/Practica-5/blob/master/Img/Cambio%20circuito.PNG) son equivalentes, por lo que tienen la misma relación tensión-corriente en sus terminales.
+Donde VTh es el voltaje del circuito en las terminales y RTh es la resistencia equivalente del circuito, es decir, los circuitos de la [Figura 1](https://github.com/erickfi/Practica-5/blob/master/Img/Cambio%20circuito.PNG) son equivalentes, por lo que tienen la misma relación tensión-corriente en sus terminales.
 
 Para hallar la resistencia equivalente RTh, se deben considerar dos casos:
 
