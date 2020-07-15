@@ -50,7 +50,7 @@ Si la resistencia de Thévenin adpota un valor negativo -RTh, nos indica que el 
 
 #### 4.2 Análisis Experimental
 
-**Construcción del circuito en [Tinkercad](tinkercad.com) y medición de voltaje y corriente en R5***
+**Construcción del circuito en [Tinkercad](tinkercad.com) y medición de voltaje y corriente en R=1K Ω**
 
 ![](https://github.com/erickfi/Practica-5/blob/master/Img/Thinker%205.1.png)
 
@@ -62,7 +62,7 @@ Si la resistencia de Thévenin adpota un valor negativo -RTh, nos indica que el 
 
 ![](https://github.com/erickfi/Practica-5/blob/master/Img/Thinker5.3.PNG)
 
-**Construcción del circuito Equivalente de Thévenin y medición de voltaje y corriente en R5**
+**Construcción del Circuito de Thévenin **
 
 ![](https://github.com/erickfi/Practica-5/blob/master/Img/Thinker%205.4.PNG)
 
