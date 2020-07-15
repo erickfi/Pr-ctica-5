@@ -21,6 +21,8 @@ Los casos de aplicación de este circuito varían, por ejemplo, un caso común e
 ### 3. MARCO TEÓRICO
 El **Teorema de Thévenin** estable:
 > "un circuito lineal de dos terminales puede remplazarse por un circuito equivalente"
+
+Este nuevo circuito debe constar de una fuente de tensión VTh, 
 ### 4. DIAGRAMAS
 ### 5. LISTA DE COMPONENTES
 ### 6. TABLA DE RESULTADOS
