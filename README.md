@@ -33,8 +33,11 @@ Para hallar la resistencia equivalente RTh, se deben considerar dos casos:
 
 Si la resistencia de Thévenin adpota un valor negativo -RTh, nos indica que el circuito suministra potencia, esto regularmente ocurre en un circuito con fuentes dependientes.
 
-
 ### 4. DIAGRAMAS
+**Diagram del circuito a analizar**
+![](https://github.com/erickfi/Practica-5/blob/master/Img/Diagrama%205.PNG)
+
+**
 ### 5. LISTA DE COMPONENTES
 ### 6. TABLA DE RESULTADOS
 ### 7. CONCLUSIONES
