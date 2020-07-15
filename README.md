@@ -24,7 +24,15 @@ El **Teorema de Thévenin** estable:
 
 ![](https://github.com/erickfi/Practica-5/blob/master/Img/Cambio%20circuito.PNG)
 
-Donde VTh es el voltaje del circuitos en las terminales y RTh es la resistencia equivalente del circuito.
+Donde VTh es el voltaje del circuitos en las terminales y RTh es la resistencia equivalente del circuito, es decir, los circuitos de la [Figura 1](https://github.com/erickfi/Practica-5/blob/master/Img/Cambio%20circuito.PNG) son equivalentes, por lo que tienen la misma relación tensión-corriente en sus terminales.
+
+Para hallar la resistencia equivalente RTh, se deben considerar dos casos:
+
+>1. El circuito no tiene fuentes dependientes: se deben apagar todas las fuentes independientes, y sumar las resistencias.
+>2. El circuito tiene fuentes dependientes: las fuentes dependientes no pueden ser apagadas por ello se opta por imponer una fuente de 1 V en los terminales a y b, e iniciar calculando el voltaje de Thévenin VTh.
+
+Si la resistencia de Thévenin adpota un valor negativo -RTh, nos indica que el circuito suministra potencia, esto regularmente ocurre en un circuito con fuentes dependientes.
+
 
 ### 4. DIAGRAMAS
 ### 5. LISTA DE COMPONENTES
