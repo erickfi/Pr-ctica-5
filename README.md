@@ -8,14 +8,19 @@ Al analizar los circuitos eléctricos, ya sea en corriente directa DC, o corrien
 
 Hasta ahora se han presentado formas para analizar un circuito, como son las *[Leyes de Kirchhoff](https://github.com/erickfi/Laboratorio--1)*, el *[Teorema de superposición](https://github.com/erickfi/Laboratorio-4)*, entre otros, el problema que presentan es que su análisis está sujeto a unas condiciones estables, si cambia algún elemento del sistema, por lo general es la carga, para saber como cambia el sistema se deberá volver a analizar todo el circuito.
 
-El teorema de Thévenin permite simplificar este análisis al reducir el circuito a uno más simple donde relacione la fuente o las fuentes de alimentación, la resistencia del circuito y la carga, de esta forma, es posible conocer como interactúa el circuito al existir una variación en la carga.
+El teorema de Thévenin permite, por medio de la aplicación de otras formas de analizar un circuito, simplificar el análisis al reducir el circuito a uno más simple donde relacione la fuente o las fuentes de alimentación, la resistencia del circuito y la carga, de esta forma, es posible conocer como interactúa el circuito al existir una variación en la carga.
 
 Los casos de aplicación de este circuito varían, por ejemplo, un caso común es una toma corriente doméstica, en la que se pueden conectar diferentes aparatos, que representan una carga variable.  
 
-
-
 ### 2. OBJETIVOS
+#### Objetivo General
+- Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo
+#### Objetivos Específicos
+- Calcular y comparar los valores de un circuito de Thévenin de forma analítica y experimental.
+- Aplicar las *Leyes de Kirchhoff* para analizar y reducir un circuito a un circuito de Thévenin.
 ### 3. MARCO TEÓRICO
+El **Teorema de Thévenin** estable:
+> "un circuito lineal de dos terminales puede remplazarse por un circuito equivalente"
 ### 4. DIAGRAMAS
 ### 5. LISTA DE COMPONENTES
 ### 6. TABLA DE RESULTADOS
