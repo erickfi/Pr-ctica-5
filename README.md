@@ -50,7 +50,7 @@ Si la resistencia de Thévenin adpota un valor negativo -RTh, nos indica que el 
 
 #### 4.2 Análisis Experimental
 
-**Construcción del circuito en [Tinkercad](tinkercad.com)**
+**Construcción del circuito en [Tinkercad](tinkercad.com) y medición de voltaje y corriente en R5***
 
 ![](https://github.com/erickfi/Practica-5/blob/master/Img/Thinker%205.1.png)
 
@@ -62,17 +62,23 @@ Si la resistencia de Thévenin adpota un valor negativo -RTh, nos indica que el 
 
 ![](https://github.com/erickfi/Practica-5/blob/master/Img/Thinker5.3.PNG)
 
+**Construcción del circuito Equivalente de Thévenin y medición de voltaje y corriente en R5**
+
+![](Img/Thinker 5.4.PNG)
+
 ### 5. LISTA DE COMPONENTES
 
-![](https://github.com/erickfi/Practica-5/blob/master/Img/Materiales.PNG)
+![](Img/Materiales.PNG)
 
 ### 6. TABLA DE RESULTADOS
 
 ***Tabla 1. Valores del Circuito equivalente de Thévenin***
-| VTh (V)   |          | RTh   (Ω) |           |
-| :--------:| :------: | :-------: | :-------: |
-| Calculado | 5.0556 V | Calculado | 298.855 Ω |
-| Medido    | 5.06  V  | Calculado | 299  Ω    |
+|   VTH(V)  |          |   RTH(Ω)  |             |
+|:---------:|----------|:---------:|-------------|
+| Calculado | 5.0556 V | Calculado | 298.855 ohm |
+| Medido    | 5.06 V   | Medido    | 299 ohm     |
+| Error %   | 0,8%     |   Error % | 0,48%       |
+
 
 ***Tabla 2. Comprobación del Teorema de Thévenin***
 | Parámetro Eléctrico | Circuito Original |           |         | Circuito   Equivalente Th |        |         |
