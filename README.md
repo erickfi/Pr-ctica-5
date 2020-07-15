@@ -63,7 +63,25 @@ Si la resistencia de Thévenin adpota un valor negativo -RTh, nos indica que el 
 ![](https://github.com/erickfi/Practica-5/blob/master/Img/Thinker5.3.PNG)
 
 ### 5. LISTA DE COMPONENTES
+
+![](https://github.com/erickfi/Practica-5/blob/master/Img/Materiales.PNG)
+
 ### 6. TABLA DE RESULTADOS
+
+***Tabla 1. Comprobación del Teorema de Thévenin***
+| Parámetro Eléctrico | Circuito Original |           |         | Circuito   Equivalente Th |        |         |
+|:-------------------:|:-----------------:|:---------:|:-------:|:-------------------------:|:------:|:-------:|
+|                     | calculado         | medido    | Error % | calculado                 | medido | Error % |
+| Voltaje(V)          | 3.89 V            |  3.8926 V | 0,06%   | 3.88 V                    | 3.89V  | 0,25%   |
+| Corriente(mA)       | 3.89 mA           | 3.8926 mA | 0,06%   | 3.88 mA                   | 3.89mA | 0,25%   |
+
+***Tabla 2.***
+| Parámetro Eléctrico | Circuito Original |           |         | Circuito   Equivalente Th |        |         |
+|:-------------------:|:-----------------:|:---------:|:-------:|:-------------------------:|:------:|:-------:|
+|                     | calculado         | medido    | Error % | calculado                 | medido | Error % |
+| Voltaje(V)          | 3.89 V            |  3.8926 V | 0,06%   | 3.88 V                    | 3.89V  | 0,25%   |
+| Corriente(mA)       | 3.89 mA           | 3.8926 mA | 0,06%   | 3.88 mA                   | 3.89mA | 0,25%   |
+
 ### 7. CONCLUSIONES
 ### 8. RECOMENDACIONES
 ### 9. CRONOGRAMA
