@@ -81,10 +81,24 @@ Si la resistencia de Thévenin adpota un valor negativo -RTh, nos indica que el 
 | Voltaje (V)         | 3.89 V            |  3.8926 V | 0,06%   | 3.88 V                    | 3.89V  | 0,25%   |
 | Corriente (mA)      | 3.89 mA           | 3.8926 mA | 0,06%   | 3.88 mA                   | 3.89mA | 0,25%   |
 
+### 7. Explicación de Código Fuente
 
+- 1. Arme el circuito tal como se encuentra en el diagrama.
+- 2. Mida el voltaje y corriente de la resistencia 5.
+- 3. Luego desconecte la resistencia 5 y mida el voltaje del circuito abierto 
+- 4. Apague las fuentes y mida la resistencia en el circuito abierto
+- 5. Arme el circuito equivalente de Thévenin agregándole la resistencia 5 en serie y configure la fuente y el potenciómetro con los valores del voltaje y resistencia medidos cuando el circuito estaba abierto, al final mida el voltaje e intensidad de corriente de la resistencia de 1kOhm la figura 
 
-### 7. CONCLUSIONES
-### 8. RECOMENDACIONES
-### 9. CRONOGRAMA
-### 10. REFERENCIAS
-### 11. ANEXOS
+### 8. CONCLUSIONES
+
+- Se comprueba experimentalmente el *Teorema de Thévenin* al medir el voltaje en R5= 1k Ohm en el [circuito original](https://github.com/erickfi/Practica-5/blob/master/Img/Diagrama%205.PNG) y al medir el voltaje en los terminales del [circuito de Thévenin](https://github.com/erickfi/Practica-5/blob/master/Img/Cambio%20a%20thevenin.jpg), siendo los voltajes 3.89 V y 3.88 V, respectivamente.
+- Cuando se desconecta la carga, midiendo la resistencia y voltaje de Thévenin, siendo estas 299 Ohms y 5.06 V respectivamente y calculando con la teoría los valores del voltaje3.89 V y corriente 3.89 mA en la resistencia 5 se obtienen que son iguales a los medidos experimentalmente.
+- Al comparar los valores obtenidos forma analítica y experimental, obtenemos errores menores al 1 % los cuales se asocian a la aproximación de los intrumentos de medición, por lo que, un [circuito de dos terminales]() es equivalente al [circuito de Thévenin ](https://github.com/erickfi/Practica-5/blob/master/Img/Circuito%20Thevenin.jpeg)
+
+### 9. RECOMENDACIONES
+### 10. CRONOGRAMA
+
+![](https://github.com/erickfi/Practica-5/blob/master/Img/Cronograma%205.PNG)
+
+### 11. REFERENCIAS
+### 12. ANEXOS
