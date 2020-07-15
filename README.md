@@ -64,7 +64,7 @@ Si la resistencia de Thévenin adpota un valor negativo -RTh, nos indica que el 
 
 **Construcción del circuito Equivalente de Thévenin y medición de voltaje y corriente en R5**
 
-![](Img/Thinker 5.4.PNG)
+![](https://github.com/erickfi/Practica-5/blob/master/Img/Thinker 5.4.PNG)
 
 ### 5. LISTA DE COMPONENTES
 
