@@ -22,7 +22,7 @@ Los casos de aplicación de este circuito varían, por ejemplo, un caso común e
 El **Teorema de Thévenin** estable:
 > "un circuito lineal de dos terminales puede remplazarse por un circuito equivalente, este nuevo circuito debe constar de una fuente de tensión VTh, en serie con un resistor RTh"
 
-![](https://github.com/erickfi/Practica-5/blob/master/Img/Cambio%20de%20circuito.PNG)
+![](https://github.com/erickfi/Practica-5/blob/master/Img/Cambio%20circuito.PNG)
 
 Donde VTh es el voltaje del circuitos en las terminales y RTh es la resistencia equivalente del circuito.
 
