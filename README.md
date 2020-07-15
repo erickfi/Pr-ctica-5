@@ -69,17 +69,17 @@ Si la resistencia de Thévenin adpota un valor negativo -RTh, nos indica que el 
 ### 6. TABLA DE RESULTADOS
 
 ***Tabla 1. Valores del Circuito equivalente de Thévenin***
-| VTh (V)   |         | RTh       |         |
-| :--------:| :-----: | :-------: | :-----: |
-| Calculado | 5.0556  | Calculado | 298.855 |
-| Medido    | 5.06    | Calculado | 299     |
+| VTh (V)   |          | RTh   (Ω) |           |
+| :--------:| :------: | :-------: | :-------: |
+| Calculado | 5.0556 V | Calculado | 298.855 Ω |
+| Medido    | 5.06  V  | Calculado | 299  Ω    |
 
 ***Tabla 2. Comprobación del Teorema de Thévenin***
 | Parámetro Eléctrico | Circuito Original |           |         | Circuito   Equivalente Th |        |         |
 |:-------------------:|:-----------------:|:---------:|:-------:|:-------------------------:|:------:|:-------:|
 |                     | calculado         | medido    | Error % | calculado                 | medido | Error % |
-| Voltaje(V)          | 3.89 V            |  3.8926 V | 0,06%   | 3.88 V                    | 3.89V  | 0,25%   |
-| Corriente(mA)       | 3.89 mA           | 3.8926 mA | 0,06%   | 3.88 mA                   | 3.89mA | 0,25%   |
+| Voltaje (V)         | 3.89 V            |  3.8926 V | 0,06%   | 3.88 V                    | 3.89V  | 0,25%   |
+| Corriente (mA)      | 3.89 mA           | 3.8926 mA | 0,06%   | 3.88 mA                   | 3.89mA | 0,25%   |
 
 
 
