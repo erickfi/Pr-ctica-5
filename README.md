@@ -104,6 +104,7 @@ Si la resistencia de Thévenin adpota un valor negativo -RTh, nos indica que el 
 ### 9. RECOMENDACIONES
 - Identificar las fuentes que hay en el circuito y aplicar el correcto análisis para ellas.
 - Construya el diagrama para el experimento lo más parecido al diagrama propuesto, para que analizar el circuito sea más fácil.
+- En el circuito equivalente de thévenin es necesario utilizar un potenciometro para poder darle un valor de 299 ohmios
 
 ### 10. CRONOGRAMA
 
@@ -113,3 +114,5 @@ Si la resistencia de Thévenin adpota un valor negativo -RTh, nos indica que el 
 - M. A. Sadiku.Fundamentos de circuitos eléctricos. Mc Graw Hill, third edition, 2006
 ### 12. ANEXOS
 - [Cálculos análiticos](https://github.com/erickfi/Practica-5/blob/master/Anexos/C%C3%A1lculos%20Anal%C3%ADticos.pdf)
+- [Cómo funciona el circuito](https://www.youtube.com/watch?v=TRDsxjXFfmg&feature=youtu.be)
+- [Cómo se implementó el circuito](https://www.youtube.com/watch?v=GO8c0AroBgk&feature=youtu.be)
