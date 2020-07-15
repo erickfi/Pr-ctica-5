@@ -17,14 +17,15 @@ Los casos de aplicación de este circuito varían, por ejemplo, un caso común e
 - Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo
 #### Objetivos Específicos
 - Calcular y comparar los valores de un circuito de Thévenin de forma analítica y experimental.
-- Aplicar las *Leyes de Kirchhoff* para analizar y reducir un circuito a un circuito de Thévenin.
+- Aplicar las *Leyes de Kirchhoff* y el *Teorema de superposición* para analizar y reducir un circuito a un circuito de Thévenin.
 ### 3. MARCO TEÓRICO
 El **Teorema de Thévenin** estable:
-> "un circuito lineal de dos terminales puede remplazarse por un circuito equivalente"
+> "un circuito lineal de dos terminales puede remplazarse por un circuito equivalente, este nuevo circuito debe constar de una fuente de tensión VTh, en serie con un resistor RTh"
 
-![Transformación de un ciruito a un circuito de Thévenin](https://github.com/erickfi/Practica-5/blob/master/Img/Cambio%20de%20circuito.PNG)
+![](https://github.com/erickfi/Practica-5/blob/master/Img/Cambio%20de%20circuito.PNG)
 
-Este nuevo circuito debe constar de una fuente de tensión VTh, 
+Donde VTh es el voltaje del circuitos en las terminales y RTh es la resistencia equivalente del circuito.
+
 ### 4. DIAGRAMAS
 ### 5. LISTA DE COMPONENTES
 ### 6. TABLA DE RESULTADOS
