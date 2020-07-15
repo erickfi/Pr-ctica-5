@@ -96,6 +96,9 @@ Si la resistencia de Thévenin adpota un valor negativo -RTh, nos indica que el 
 - Al comparar los valores obtenidos forma analítica y experimental, obtenemos errores menores al 1 % los cuales se asocian a la aproximación de los intrumentos de medición, por lo que, un [circuito de dos terminales](https://github.com/erickfi/Practica-5/blob/master/Img/Diagrama%205.PNG) es equivalente al [circuito de Thévenin ](https://github.com/erickfi/Practica-5/blob/master/Img/Circuito%20Thevenin.jpeg)
 
 ### 9. RECOMENDACIONES
+- Identificar las fuentes que hay en el circuito y aplicar el correcto análisis para ellas.
+- Construya el diagrama para el experimento lo más parecido al diagrama propuesto, para que analizar el circuito sea más fácil.
+
 ### 10. CRONOGRAMA
 
 ![](https://github.com/erickfi/Practica-5/blob/master/Img/Cronograma%205.PNG)
@@ -103,3 +106,4 @@ Si la resistencia de Thévenin adpota un valor negativo -RTh, nos indica que el 
 ### 11. REFERENCIAS
 - M. A. Sadiku.Fundamentos de circuitos eléctricos. Mc Graw Hill, third edition, 2006
 ### 12. ANEXOS
+- [Cálculos análiticos](https://github.com/erickfi/Practica-5/blob/master/Anexos/C%C3%A1lculos%20Anal%C3%ADticos.pdf)
