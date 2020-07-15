@@ -101,4 +101,5 @@ Si la resistencia de Thévenin adpota un valor negativo -RTh, nos indica que el 
 ![](https://github.com/erickfi/Practica-5/blob/master/Img/Cronograma%205.PNG)
 
 ### 11. REFERENCIAS
+- M. A. Sadiku.Fundamentos de circuitos eléctricos. Mc Graw Hill, third edition, 2006
 ### 12. ANEXOS
