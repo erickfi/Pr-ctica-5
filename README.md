@@ -6,7 +6,13 @@
 ### 1. PLANTEAMIENTO DEL PROBLEMA
 Al analizar los circuitos eléctricos, ya sea en corriente directa DC, o corriente alterna AC, se analiza al circuito en un estado estable, es decir, donde los elementos del circuito no van a variar, no obstante, esto no ocurre cuando usamos un circuito en la vida real. 
 
-Hasta ahora se han presentado formas para analizar un circuito, como son las *[Leyes de Kirchhoff](https://github.com/erickfi/Laboratorio--1)*, el *[Teorema de superposición](https://github.com/erickfi/Laboratorio-4)*, entre otros, el problema que presentan es que su analisis está sujeto 
+Hasta ahora se han presentado formas para analizar un circuito, como son las *[Leyes de Kirchhoff](https://github.com/erickfi/Laboratorio--1)*, el *[Teorema de superposición](https://github.com/erickfi/Laboratorio-4)*, entre otros, el problema que presentan es que su análisis está sujeto a unas condiciones estables, si cambia algún elemento del sistema, por lo general es la carga, para saber como cambia el sistema se deberá volver a analizar todo el circuito.
+
+El teorema de Thévenin permite simplificar este análisis al reducir el circuito a uno más simple donde relacione la fuente o las fuentes de alimentación, la resistencia del circuito y la carga, de esta forma, es posible conocer como interactúa el circuito al existir una variación en la carga.
+
+Los casos de aplicación de este circuito varían, por ejemplo, un caso común es una toma corriente doméstica, en la que se pueden conectar diferentes aparatos, que representan una carga variable.  
+
+
 
 ### 2. OBJETIVOS
 ### 3. MARCO TEÓRICO
