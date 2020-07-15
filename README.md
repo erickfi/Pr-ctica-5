@@ -70,6 +70,7 @@ Si la resistencia de Thévenin adpota un valor negativo -RTh, nos indica que el 
 
 ***Tabla 1. Valores del Circuito equivalente de Thévenin***
 | VTh (V)   |         | RTh       |         |
+| :--------:| :-----: | :-------: | :-----: |
 | Calculado | 5.0556  | Calculado | 298.855 |
 | Medido    | 5.06    | Calculado | 299     |
 
